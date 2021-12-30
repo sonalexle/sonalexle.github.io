@@ -10,7 +10,7 @@ redirect_from:
 
 **Site is under construction**
 
-Hei! I'm a student at [Aalto University](https://www.aalto.fi/en), and I'm working towards a Bachelor's degree in Data Science.
+Hei! I'm a student at [Aalto University](https://www.aalto.fi/en), and I'm pursuing a Bachelor's degree in Data Science, with a minor in Statistics.
 I expect to graduate in summer 2022, probably in June.
 I will undertake Master's studies in fall 2022 at the same university or elsewhere.
 
