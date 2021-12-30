@@ -15,7 +15,7 @@ I expect to graduate in summer 2022, probably in June.
 I will undertake Master's studies in fall 2022 at the same university or elsewhere.
 
 My undergraduate studies cover the foundations of data science: computer science, math, and statistics.
-In addition, throuth university courses, projects, and internships, I have obtained a solid foundation of machine learning (ML),
+In addition, through university courses, projects, and internships, I have obtained a solid foundation of machine learning (ML),
 grounded in math and statistics.
 
 *Updates:* I'll be joining [Aalto Probabilistic ML group](https://research.cs.aalto.fi/pml/) as a research assistant.
