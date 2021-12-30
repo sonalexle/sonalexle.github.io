@@ -9,6 +9,8 @@ This page lists all course and side projects I have completed so far.
 
 <!--more-->
 
+{% include toc %}
+
 # Viral tweets MLOps
 
 * Custom MLOps pipeline for a BERT model to classify tweet virality.
@@ -41,7 +43,7 @@ This page lists all course and side projects I have completed so far.
 
 [Docs](https://sonalexle.github.io/BayesianRegression/){: .btn--project} [GH repo](https://github.com/sonalexle/BayesianRegression){: .btn--project}
 
-# RegressionApp
+# Regression App
 
 * Fits and visualizes univariate linear and quadratic regression models.
 
