@@ -1,7 +1,8 @@
 # main links links
+# url: /cv/
 main:
   - title: "Projects"
-    url: /projects/    
+    url: /projects/
     
   - title: "CV"
-    url: /cv/
+    url: /files/pdf/SonLe_resume.pdf
