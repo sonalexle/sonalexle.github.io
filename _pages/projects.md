@@ -44,7 +44,7 @@ I developed three models with PyTorch:
 
 The models and their results were submitted as a course project.
 
-[GH repo](https://github.com/sonalexle/GeekLearning){: .btn--project} [App](https://geeklearning.herokuapp.com){: .btn--project}
+[GH repo](https://github.com/sonalexle/GeekLearning){: .btn--project} [App](https://geeklearning.herokuapp.com){: .btn--project} [Docs](https://github.com/sonalexle/GeekLearning/blob/main/docs/report.pdf){: .btn--project}
 
 # Energy Demand Prediction
 
