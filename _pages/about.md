@@ -21,7 +21,7 @@ grounded in math and statistics.
 *Updates:* I'll be joining [Aalto Probabilistic ML group](https://research.cs.aalto.fi/pml/) as a research assistant.
 Currently, I'm looking for summer internship opportunities in machine learning.
 Although I'm leaning towards ML research since that's the focus of my ML courses,
-I'm also interested in ML engineering since ML engineering can make a visible impact more quickly.
+I'm also interested in ML engineering since I think can make a visible impact more quickly than pure research.
 
 # Interests
 
