@@ -93,7 +93,7 @@ and the fitting process can be stopped prematurely, yielding an incomplete model
 This course project presents univariate, bivariate, and multivariate statistical analyses on a dataset about YouTube videos.
 The univariate analysis discovered that more than half of the videos have positive descriptions or neutral titles.
 The bivariate analysis found that the four user interaction variables `views`, `likes`, `dislikes`,
-and `num_dislikes` have mild to strong positive linear correlations with each other.
+and `num_cmts` have mild to strong positive linear correlations with each other.
 The principal component analysis was able to summarize the data in few dimensions,
 and the multiple correspondence analysis found interesting and intuitive relationships between the categorical variables. 
 
