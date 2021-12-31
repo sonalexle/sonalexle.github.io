@@ -17,7 +17,7 @@ In addition, through university courses, projects, and internships, I have obtai
 grounded in math and computer science.
 
 **Updates**
-I'm looking for summer internship opportunities in ML research, ML engineering, or ML (and data science) in general.
+I'm looking for summer internship opportunities in ML research, ML engineering, or data science and ML in general.
 
 # Interests
 
@@ -25,9 +25,9 @@ I'm looking for summer internship opportunities in ML research, ML engineering, 
 
 My research interests include causality (causal inference and causal discovery), deep learning (DL), and probabilistic machine learning (PML).
 
-With causal analysis, one can transition from pattern recognition done by normal ML methods to interventions and counterfactual reasoning, a desirable property of intelligent systems. I mainly work with causal inference assumptions and treatment effect estimation methods, such as double machine learning, doubly robust estimators, and instrumental variables. One could also estimate treatment effects with arbitrary ML models. However, to do so, one needs to be informed of which explanatory variables to include. This information is usually encoded as a directed acyclic graph (DAG), which is one type of probabilistic graphical models (PGMs).
+With causal analysis, one can transition from pattern recognition done by typical ML methods to interventions and counterfactual reasoning, a desirable property of intelligent systems. I mainly work with causal inference assumptions and treatment effect estimation methods, such as double machine learning, doubly robust estimators, and instrumental variables. One could also estimate treatment effects with arbitrary ML models. However, to do so, one needs to be informed of which explanatory variables to include. This information is usually encoded as a directed acyclic graph (DAG), which is one type of probabilistic graphical models (PGMs).
 
-Regarding PML, I'm interested in latent variable modeling, PGMs, Bayesian inference, variational autoencoders (VAEs) and variational inference, generative adversarial networks (GANs), and normalizing flows. I believe that probabilistic modeling could make ML more transparent by providing outputs augmented with uncertainty measures such as credible intervals (instead of just a number like, e.g., random forests), which would be more informative to users and decision-makers.
+Regarding PML, I'm interested in latent variable modeling, PGMs, Bayesian inference, and variational inference. I believe that probabilistic modeling could make ML more transparent by providing outputs augmented with uncertainty measures such as credible intervals (instead of just a number like, e.g., random forests), which would be more informative to users and decision-makers.
 
 When it comes to DL, I like to study various models for different applications, such as natural language processing or computer vision.
 I'm familiar with most common models and methods: CNN, RNN (LSTM, GRU), transformers, GAN, and VAE.
