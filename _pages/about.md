@@ -10,16 +10,14 @@ redirect_from:
 
 Hei! I'm a student at [Aalto University](https://www.aalto.fi/en), and I'm pursuing a Bachelor's degree in Data Science, with a minor in Statistics.
 I expect to graduate in summer 2022, probably in June.
-I will undertake Master's studies in fall 2022 at the same university or elsewhere.
+I will undertake Master's studies in fall 2022 also at Aalto or elsewhere.
 
 My undergraduate studies cover the foundations of data science: computer science, math, and statistics.
 In addition, through university courses, projects, and internships, I have obtained a solid foundation of machine learning (ML),
-grounded in math and statistics.
+grounded in math and computer science.
 
-*Updates:* I'll be joining [Aalto Probabilistic ML group](https://research.cs.aalto.fi/pml/) as a research assistant.
-Currently, I'm looking for summer internship opportunities in machine learning.
-Although I'm leaning towards ML research since that's the focus of my ML courses,
-I'm also interested in ML engineering since I think it can make a visible impact more quickly than pure research.
+**Updates**
+I'm looking for summer internship opportunities in ML research, ML engineering, or ML (and data science) in general.
 
 # Interests
 
@@ -29,9 +27,11 @@ My research interests include causality (causal inference and causal discovery),
 
 With causal analysis, one can transition from pattern recognition done by normal ML methods to interventions and counterfactual reasoning, a desirable property of intelligent systems. I mainly work with causal inference assumptions and treatment effect estimation methods, such as double machine learning, doubly robust estimators, and instrumental variables. One could also estimate treatment effects with arbitrary ML models. However, to do so, one needs to be informed of which explanatory variables to include. This information is usually encoded as a directed acyclic graph (DAG), which is one type of probabilistic graphical models (PGMs).
 
-Regarding PML, I'm interested in latent variable modeling, PGMs, Bayesian methods, variational autoencoders (VAEs), generative adversarial networks (GANs), and normalizing flows. I believe that probabilistic modeling could make ML more transparent by providing outputs augmented with uncertainty measures such as credible intervals (instead of just a number like, e.g., random forests), which would be more informative to users and decision-makers.
+Regarding PML, I'm interested in latent variable modeling, PGMs, Bayesian inference, variational autoencoders (VAEs) and variational inference, generative adversarial networks (GANs), and normalizing flows. I believe that probabilistic modeling could make ML more transparent by providing outputs augmented with uncertainty measures such as credible intervals (instead of just a number like, e.g., random forests), which would be more informative to users and decision-makers.
 
-When it comes to DL, I like to study various models for different applications, such as natural language processing or computer vision. I'm not so interested in coming up with new modules such as attention, but rather I'd like to discover unexpected ways to successfully integrate different building blocks and build a good DL model.
+When it comes to DL, I like to study various models for different applications, such as natural language processing or computer vision.
+I'm familiar with most common models and methods: CNN, RNN (LSTM, GRU), transformers, GAN, and VAE.
+I'm not so interested in coming up with new modules such as attention, but rather I like to discover unexpected ways to successfully integrate different building blocks and build a good DL model.
 
 At the intersection of causality, DL, and PML, I'm investigating how to encode causal relationships as inductive biases for ML models while learning how to improve the performance of causal estimators with complex ML methods such as neural networks. That is, I'd like to know how ML could help causality and vice versa. However, both causal inference and ML methods typically lack uncertainty quantification, and this is where the probabilistic modeling framework could help.
 
