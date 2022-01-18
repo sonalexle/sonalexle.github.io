@@ -17,7 +17,7 @@ My undergraduate studies cover the foundations of data science: computer science
 In addition, through university courses, projects, and internships, I have obtained a solid foundation of machine learning (ML),
 grounded in math and computer science.
 
-In general, I am interested in machine learning engineering, probabilistic machine learning, deep learning, and causality and its connection with machine learning.
+In general, I am interested in machine learning engineering, probabilistic machine learning, deep learning, and causality and its connections with machine learning.
 
 <!-- # Interests
 
