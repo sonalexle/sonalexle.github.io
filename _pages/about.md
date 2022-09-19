@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hei! I'm a student at [Aalto University](https://www.aalto.fi/en), and I'm pursuing a Bachelor's degree in Data Science, with a minor in Statistics.
-I expect to graduate in summer 2022, probably in June.
-I will undertake Master's studies in fall 2022 also at Aalto (I'm enrolled in a continuous BSc + MSc program) or elsewhere.
-I'm also working as a research assistant for the Aalto Probabilistic Machine Learning group.
+Hi! I'm a Master's student at [EPFL](https://www.epfl.ch/en/), studying Data Science.
+I expect to graduate in summer 2024.
 
-My undergraduate studies cover the foundations of data science: computer science, math, and statistics.
+My studies cover the foundations of data science: computer science, math, and statistics.
 In addition, through university courses, projects, and internships, I have obtained a solid foundation of machine learning (ML),
 grounded in math and computer science.
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Son Le"
 title_separator          : "-"
 name                     : &name "Son Le"
-description              : &description "Data Science student at Aalto University"
+description              : &description "Data Science MSc student at EPFL"
 url                      : https://sonalexle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sonalexle/sonalexle.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Son Le"
   avatar           : "profile.jpg"
-  bio              : "Data Science student at Aalto University"
-  location         : "Espoo, Finland"
+  bio              : "Data Science student at EPFL"
+  location         : "Lausanne, Switzerland"
   employer         :
   pubmed           :
   googlescholar    :
